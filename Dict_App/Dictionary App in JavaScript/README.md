@@ -11,24 +11,11 @@ A simple and responsive dictionary app built using HTML, CSS, and JavaScript. It
   - *Example sentence* (if available)
 - Responsive design for mobile and desktop
 
-## Demo
-
-[Live Demo](#) <!-- Replace with your hosted link -->
-
-## Screenshots
-
-![Search Bar](screenshots/search-bar.png)
-Search for any word
-
-![Search Result](screenshots/search-result.png)
-View meaning, pronunciation, and example
-
 ## Technologies Used
 
 - HTML  
 - CSS  
 - JavaScript  
-- [Free Dictionary API](https://dictionaryapi.dev/)
 
 ## How to Run Locally
 
